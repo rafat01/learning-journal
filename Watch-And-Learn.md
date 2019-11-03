@@ -1,4 +1,6 @@
  **Watch And Learn on Mastering Markdown word**  
+ 
+ 
  hi my frinds my name is rafat today i want speak about something new and fun 
  lets go
  if your teaher gave you ahome work or your mangeer gave you project or you want make a Great online page
@@ -11,3 +13,9 @@
  
  the first one like this 
  ![master markdown](https://i.imgur.com/cd2MFIU.png)
+ 
+and tis the second example Here’s an overview of Markdown syntax that you can use anywhere
+on GitHub.com or in your own text files
+![Syntax guide](https://i.imgur.com/HtMHsuO.png)
+from this photo you will now how to use and theres alot of example so lets try
+thanks for you
